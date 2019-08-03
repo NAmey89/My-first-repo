@@ -1,2 +1,2 @@
-# Rep1
-Sample code from iPython
+# Python and HTML code
+Sample code from iPython and from HTML
